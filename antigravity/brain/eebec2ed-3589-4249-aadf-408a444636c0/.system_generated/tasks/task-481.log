@@ -1,0 +1,8 @@
+[EmailService] No SMTP credentials - using Ethereal test account.
+[EmailService] Ethereal user: e36j2ulx36h76qqg@ethereal.email
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/apmWOAlT7djrmSCtapmWO2NZ89.4yxufAAAAAToasrVuP7kv56PeJRVlv9w
+RESULT: {
+  success: true,
+  messageId: '<86185dd5-40c8-1ad1-7e34-043c5ad21176@homesphere.app>',
+  previewUrl: 'https://ethereal.email/message/apmWOAlT7djrmSCtapmWO2NZ89.4yxufAAAAAToasrVuP7kv56PeJRVlv9w'
+}

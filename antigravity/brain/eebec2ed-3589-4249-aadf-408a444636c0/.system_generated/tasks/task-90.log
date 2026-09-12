@@ -1,0 +1,14 @@
+npm warn exec The following package was not found and will be installed: create-vite@9.2.0
+
+> household-app@1.0.0 npx
+> create-vite client --template react
+
+|
+o  Scaffolding project in C:\Users\HP\.gemini\antigravity\scratch\household-app\client...
+|
+—  Done. Now run:
+
+  cd client
+  npm install
+  npm run dev
+

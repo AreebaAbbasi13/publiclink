@@ -1,0 +1,12 @@
+The `msstore` source requires that you view the following agreements before using.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+The source requires the current machine's 2-letter geographic region to be sent to the backend service to function properly (ex. "US").
+
+Found Node.js (LTS) [OpenJS.NodeJS.LTS] Version 24.19.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://nodejs.org/dist/v24.19.0/node-v24.19.0-x64.msi
+Successfully verified installer hash
+Starting package install...
+The installer will request to run as administrator. Expect a prompt.
+Successfully installed

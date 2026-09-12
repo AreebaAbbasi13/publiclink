@@ -1,0 +1,4 @@
+npm warn exec The following package was not found and will be installed: create-next-app@16.3.4
+Could not create a project called "New folder" because of npm naming restrictions:
+    * name can only contain URL-friendly characters
+    * name can no longer contain capital letters

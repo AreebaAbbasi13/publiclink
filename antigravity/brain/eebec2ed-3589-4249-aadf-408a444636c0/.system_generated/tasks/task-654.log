@@ -1,0 +1,28 @@
+◇ injected env (5) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+HomeSphere Server listening on http://0.0.0.0:5000
+[Scheduler] Email reminder scheduler started (interval: 60 min)
+[Scheduler] Running email check for 2 user(s)...
+[EmailService] No SMTP credentials - using Ethereal test account.
+[EmailService] Ethereal user: pahf2uauso5vikgy@ethereal.email
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprkqmNZ89.4y3DlAAAAAUK7mnar377ygGz1dqN0Rh8
+[Scheduler] Bill reminder sent to humaakhan65@gmail.com: 6d Left: new parcel klean beauty — $23.00
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprkrvNVsWIVeSyQAAAAAl38WNXY0LUE5ZXVo.e36ls
+[Scheduler] Budget alert sent to humaakhan65@gmail.com: Budget Exceeded: $1240.00 of $1000.00 spent
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprksmNZ89.4y3DmAAAAAz7ohxdEZ5F6frrQ3zc57kM
+[Scheduler] Bill reminder sent to user_1788357759689@household.app: 9d Left: Household Helper Salary — $250.00
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprktPNVsWIVeSyRAAAABJaddDrwopr2CknqwlRTqdY
+[Scheduler] Bill reminder sent to user_1788357759689@household.app: 6d Left: University Tuition Fee — $650.00
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprkt94vWvYlxShXAAAABY2NI75PO5bdC9FmiCOCv2w
+[Scheduler] Bill reminder sent to user_1788357759689@household.app: Overdue: Fiber Internet Bill — $79.99
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprkud4vWvYlxShYAAAABjkpBhAYKD1.akxo0t4ufUg
+[Scheduler] Bill reminder sent to user_1788357759689@household.app: Overdue: Municipal Water Bill — $48.20
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprkvGNZ89.4y3DnAAAAB.FwvfD-qXGc.th6EpJUh2Y
+[Scheduler] Pantry alert sent to user_1788357759689@household.app: 1 items
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprohoIuM2RB03AAAAAACIdRvWMigNcvknU6BHM6WPI
+[Scheduler] Bill reminder sent to humaakhan65@gmail.com: Due Today: rent september — $500.00
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprozGNZ89.4y3GVAAAACYd3VfE6m-QBR1PPnE21MDk
+[Scheduler] Budget alert sent to humaakhan65@gmail.com: Budget Alert: 83% of your 2026-09 budget used
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1apro-PNVsWIVeS1kAAAACnqESsYkaU-EyU8sjXE-DFk
+[Scheduler] Pantry alert sent to humaakhan65@gmail.com: 1 items
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprpsd4vWvYlxSkrAAAACyf6lMWiaQypZY17tE.bp1w
+[EmailService] Email preview (Ethereal): https://ethereal.email/message/aprkpQlT7djr75N1aprqKGNZ89.4y3G8AAAADA3TNDykhrt.t.8jtSh0F1Q

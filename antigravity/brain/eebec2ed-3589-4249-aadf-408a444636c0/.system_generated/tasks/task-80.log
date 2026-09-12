@@ -1,0 +1,8 @@
+npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+npm error code 1
+npm error path C:\Users\HP\.gemini\antigravity\scratch\household-app\node_modules\protobufjs
+npm error command failed
+npm error command C:\Windows\system32\cmd.exe /d /s /c node scripts/postinstall
+npm error 'node' is not recognized as an internal or external command,
+npm error operable program or batch file.
+npm error A complete log of this run can be found in: C:\Users\HP\AppData\Local\npm-cache\_logs\2026-09-02T13_42_53_602Z-debug-0.log

@@ -1,0 +1,7 @@
+Successfully scheduled one-shot timer.
+Expected to fire at: 2026-09-02T06:46:02-07:00
+Prompt: Check client install status
+Early Termination: task-95
+
+[2026-09-02T06:45:57-07:00] Still waiting. Remaining time: 5s
+[2026-09-02T06:46:02-07:00] Timer fired.

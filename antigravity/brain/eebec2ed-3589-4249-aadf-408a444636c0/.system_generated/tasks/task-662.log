@@ -1,0 +1,11 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v8.2.2  ready in 18198 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://192.168.56.1:3000/  Ethernet 2
+  ➜  Network: http://192.168.0.35:3000/  Wi-Fi
+8:33:34 AM [vite] (client) [optimizer] bundling dependencies...
